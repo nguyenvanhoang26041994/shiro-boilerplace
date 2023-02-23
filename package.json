@@ -1,0 +1,22 @@
+{
+  "name": "shiro-boilerplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvanhoang26041994/shiro-boilerplace.git"
+  },
+  "author": "Hoang Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenvanhoang26041994/shiro-boilerplace/issues"
+  },
+  "homepage": "https://github.com/nguyenvanhoang26041994/shiro-boilerplace#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.1"
+  }
+}
